@@ -1,0 +1,6 @@
+__pycache__/
+*.pth
+*.pyc
+data/
+Results/
+.env
